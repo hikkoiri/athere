@@ -6,9 +6,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #1B1D21;
+  color: #D1D2D3;
 }
 
 .highlight {
   color: #D6A939;
   background-color: #393329;
+}
+
+p {
+  font-size: 3vh;
+  margin: 0;
 }
