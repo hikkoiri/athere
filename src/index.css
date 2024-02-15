@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 body {
   margin: 0;
   font-family: 'Lato';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #1B1D21;
+}
 
+.highlight {
+  color: #D6A939;
+  background-color: #393329;
 }
