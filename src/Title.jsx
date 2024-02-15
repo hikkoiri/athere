@@ -3,9 +3,6 @@ import { TypeAnimation } from 'react-type-animation';
 
 
 function Title() {
-
-
-
     return (
         <div style={{ display: "flex", alignItems: "center" }}>
             {/* <strike style={{ color: "red"}}> */}

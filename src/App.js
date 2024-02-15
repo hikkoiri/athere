@@ -12,7 +12,7 @@ function App() {
           Focused and absorbed, in the task at hand,<br />
           Till a ping disrupts, like a shifting sand.<br />
           <br />
-          <span className='highlight'>@here</span> the notification chimes,<br />
+          <span className='highlight'>@here</span> the Slack notification chimes,<br />
           Breaking the flow, disrupting the rhyme.<br />
           Lost in the chatter, the code now blurred,<br />
           Disturbed from their focus, the rhythm deterred.<br />
