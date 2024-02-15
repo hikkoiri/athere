@@ -5,10 +5,6 @@ import { TypeAnimation } from 'react-type-animation';
 function Title() {
     return (
         <div style={{ display: "flex", alignItems: "center", flexWrap: "wrap" }}>
-            {/* <strike style={{ color: "red"}}> */}
-            {/* <span style={{ fontSize: '10vh' }}>
-                ❌&nbsp;&nbsp;
-            </span> */}
             <span style={{ fontSize: '8vh' }}>
                 Was it really necessary to use&nbsp;
             </span>
@@ -29,7 +25,6 @@ function Title() {
             <span style={{ fontSize: '8vh' }}>
                 &nbsp;?
             </span>
-            {/* </strike> */}
         </div>
     );
 }
